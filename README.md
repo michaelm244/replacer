@@ -1,4 +1,4 @@
-Slasher
+Replacer
 =========
 
 There's all these extensions that let you replace all images on the page with ____. So, why not make your own? Just enter
@@ -10,7 +10,7 @@ Examples
 If Nicholas Cage was your only facebook friend:
 -----
 
-![Nichlas Cage fb](http://i.imgur.com/pj4FsKr.png "Nicholas Cage Facebook")
+![Nichlas Cage fb](http://i.imgur.com/RSewmaJ.png "Nicholas Cage Facebook")
 <br>
 
 
